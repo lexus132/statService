@@ -1,0 +1,18 @@
+{
+  "name": "",
+  "version": "0.1.0",
+  "description": "",
+  "main": "./src/server.js",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "request": "^2.85.0",
+    "mongoose": "^5.0.1"
+  },
+  "scripts": {
+    "start" : "nodemon ./src/server.js"
+  },
+  "author": "",
+  "license": ""
+}
